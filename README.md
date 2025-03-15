@@ -1,8 +1,8 @@
 ## The Lonely Files
 
-In folders deep where shadows creep,
-Lie files forgotten, left to weep.
-Once opened bright with purpose clear,
+In folders deep where shadows creep, 
+Lie files forgotten, left to weep. 
+Once opened bright with purpose clear, 
 Now drowned in dust, erased by years.
 
 Their names half-broken, dates unknown,
